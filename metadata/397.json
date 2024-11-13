@@ -1,0 +1,55 @@
+{
+  "name": "397",
+  "description": "Collection Koalas",
+  "external_url": "",
+  "image": "https://coral-junior-magpie-341.mypinata.cloud/ipfs/QmUzUTUrM96Ryn9UmAwYxnNFKeD2oajM6tTMwkRNan7GLu/397.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sunset Beach"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow 3"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Nose Ring"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Squint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mean Mug"
+    },
+    {
+      "trait_type": "Erring",
+      "value": "Dangly"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Hooch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Krabby Star"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "397.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}

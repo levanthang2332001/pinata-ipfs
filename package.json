@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "got": "^11.8.6",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "base-path-converter": "^1.0.2",
+    "buffer": "^6.0.3",
+    "form-data": "^4.0.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "pinata-web3": "^0.5.2",
+    "recursive-fs": "^2.1.0"
+  }
+}
